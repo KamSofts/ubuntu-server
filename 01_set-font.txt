@@ -2,7 +2,7 @@
 ```bash
 sudo dpkg-reconfigure console-setup
 ```
-UTF-8
-Guess optimal character set
-TerminusBold
-14x28
+* UTF-8
+* Guess optimal character set
+* TerminusBold
+* 14x28
