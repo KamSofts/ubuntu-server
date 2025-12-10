@@ -1,0 +1,8 @@
+## SET FONT
+```bash
+sudo dpkg-reconfigure console-setup
+```
+UTF-8
+Guess optimal character set
+TerminusBold
+14x28
